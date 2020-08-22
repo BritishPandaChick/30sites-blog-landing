@@ -1,0 +1,146 @@
+/* Base Styles */
+body {
+    width: 100%;
+    margin: 0 auto;
+    color: #333;
+    font-family: 'PT Sans', sans-serif;
+}
+
+/* Header */
+header {
+    border: 2px solid green;
+}
+
+header .navbar-brand {
+    font-size: 35px;
+    color: green;
+    font-family: 'Allura', cursive;
+}
+
+header nav ul li a {
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+header nav ul li a:hover {
+    color: green;
+}
+
+/* Banner */
+#banner {
+    background-image: url("https://wdwnt-buzzy.s3.amazonaws.com/2020/07/tianas-palace.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+/* Posts */
+.post {
+    padding: 40px;
+}
+
+.post h4 {
+    font-size: 25px;
+}
+
+.post h3 {
+    font-size: 35px;
+}
+
+.post img {
+    margin: 20px 0;
+}
+
+.post p {
+    font-size: 20px;
+}
+
+.post a {
+    color: green;
+    font-size: 20px;
+}
+
+.post a:hover {
+    color: darkgreen;
+}
+
+/* Sidebar */
+#sidebar {
+    padding: 40px 30px;
+}
+
+#sidebar .about {
+    padding: 15px 5px;
+}
+
+#sidebar .about h3 {
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+
+#sidebar .about p {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+#sidebar .search {
+    padding: 40px 0;
+}
+
+#sidebar .search h3 {
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+
+#sidebar .menu {
+    border: 2px solid green;
+    background-color: orange;
+    padding: 15px 0;
+}
+
+#sidebar .menu h3 {
+    padding: 40px 0;
+    color: blue;
+}
+
+#sidebar .categories {
+    padding: 40px 0;
+}
+
+#sidebar .categories h3 {
+    padding-bottom: 15px;
+    font-size: 35px;
+}
+
+#sidebar .categories ul li a {
+    font-size: 16px;
+    color: green;
+}
+
+#sidebar .shop {
+    padding: 14px 0;
+    background-color: orange;
+    border: 2px solid green;
+}
+
+#sidebar .shop h3 {
+    color: blue;
+    font-size: 35px;
+    padding: 40px 0;
+}
+
+/* Footer */
+footer {
+    border: 2px solid green;
+    padding: 15px 0;
+}
+
+footer p {
+    font-size: 16px;
+    font-family: 'Allura', cursive;
+}
+
+footer nav ul li {
+    padding: 0 40px;
+    color: green;
+}
