@@ -1,11 +1,11 @@
-# 30 Days, 30 Sites Day Twenty Site
-30 Days, 30 Sites Day 20 project. Blog Landing page site. Made with HTML, CSS, Bootstrap, and JavaScript.
+# 30 Days, 30 Sites Day 20: Blog Landing Site
+An example of a blog landing page. This is variation of a project I made during 100 Days of Code.
 
-## Instructions
-Clone this repo or download the zip file.
-
-## Contributions
-I will not be accepting pull requests.
+## Tech Stack
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 ## Acknowledgements
 * 30 Days, 30 sites
